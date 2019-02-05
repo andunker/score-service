@@ -1,4 +1,3 @@
-#!/bin/bash
-mvn clean package
-docker build -t pio .
-docker run -d -p 9090:8080  pio 
+./mvnw clean package
+docker build -t scores .
+docker run -d -p 9090:8080  scores 
