@@ -19,6 +19,7 @@ import com.springboot.scoreservice.app.models.service.IScoreService;
 
 
 @RestController
+@RequestMapping("/api")
 public class ScoreController {
 
 	@Autowired
