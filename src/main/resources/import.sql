@@ -1,0 +1,10 @@
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (1,11,111,11,'xfsdf',2,'2012-12-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (2,11,111,12,'xfsdf',2,'2012-11-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (3,11,111,13,'xfsdf',2,'2011-10-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (4,11,111,14,'xfsdf',2,'2011-12-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (5,11,111,15,'xfsdf',2,'2012-12-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (6,10,222,16,'xfsdf',2,'2013-12-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (7,10,222,17,'xfsdf',2,'2012-12-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (8,10,222,18,'xfsdf',2,'2011-12-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (9,10,222,19,'xfsdf',2,'2014-12-12');
+insert into scores (id,id_user, id_store, id_order, opinion, stars, create_At) values (10,10,222,20,'xfsdf',2,'2015-12-12');
